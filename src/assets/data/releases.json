@@ -12,7 +12,7 @@
     "description": "Static Version of 1 Nation to see prototype in action"
   },
   {
-    "version": "ALPHA",
+    "version": "2.0.0",
     "title": "Angular 5 Prototype system with Material 2",
     "releasedate": "10/16/2017",
     "description": "Leveraging Material 2 and Angular 5 this prototype will move to a more interactive system with server side engine systems run by models and services."
